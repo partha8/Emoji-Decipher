@@ -3,10 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+html{
+  scroll-behavior: smooth;
+}
 .App {
   text-align: center;
   background-color: #ade8f4;
-  scroll-behavior: smooth;
 }
 header {
   background-color: #023e8a;
